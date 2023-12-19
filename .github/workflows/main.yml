@@ -9,7 +9,7 @@ on:
       - testing
 jobs:
 
-  bulid:
+  build:
     runs-on: ubuntu-latest
 
     steps:
