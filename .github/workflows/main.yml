@@ -10,7 +10,6 @@ on:
 jobs:
 
   bulid:
-
     runs-on: ubuntu-latest
 
     steps:
