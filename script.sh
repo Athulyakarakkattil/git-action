@@ -1,4 +1,4 @@
 #!/bin/bash
 
-am the new repo
+echo "am the new repo"
 
